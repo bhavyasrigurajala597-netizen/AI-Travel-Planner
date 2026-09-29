@@ -1,0 +1,6 @@
+{
+  "name": "YatraGenie - AI Travel Planner",
+  "description": "Generate comprehensive, day-by-day travel itineraries in English and Telugu with dual USD and INR budgets, hotels, food guides, packing checklists, and safety tips.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
